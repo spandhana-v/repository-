@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E8C5-B956
+
+ Directory of C:\Users\spand\OneDrive\Desktop\My project git
+
+2021-08-13  04:03 PM    <DIR>          .
+2021-08-13  04:03 PM    <DIR>          ..
+2021-08-13  04:03 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  306,325,372,928 bytes free
